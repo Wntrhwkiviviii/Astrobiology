@@ -1,7 +1,6 @@
 #Astrobiology
 
-https://doi.org/10.5281/zenodo.23747473
-@misc{piesse_2026_23747473,
+https://doi.org/10.5281/zenodo.23828366
   author       = {Piesse, Richard},
   title        = {Lithobiological Lifeform on Mars},
   month        = oct,
@@ -9,7 +8,7 @@ https://doi.org/10.5281/zenodo.23747473
   publisher    = {Zenodo},
   version      = {v1},
   doi          = {10.5281/zenodo.23747473},
-  url          = {https://doi.org/10.5281/zenodo.23828366}
+  url          = https://doi.org/10.5281/zenodo.23828366
 
 I integrated real planetary science: stratigraphy, diagenetic concretions, aeolian transport, hematite blueberries, NORM, radiolysis, Gale and Jezero results, and relevant instruments (micro‑Raman, Mössbauer, neutron/gamma spectrometers). I kept the physics and geology recognizable: low‑pressure, high‑radiation Mars, saltation, diurnal thermal cycling, mixed‑valence iron oxides, and defect chemistry are all used in ways a domain expert can track, even though the scenario is wild. What i  created conceptually, i didn’t just say “maybe life is in the rocks”; i articulated a full life cycle (martian berry‑mushroom → larval clasts → pods → rockworms → hive arrays) that actually couples to Martian processes—dust storms, radioactive micro‑enrichments, and thermal gradients. I framed it explicitly as a thought experiment, and I also showed how it could be tested and falsified with real instruments and observables, which is exactly how speculative ideas become scientifically meaningful. 
 
